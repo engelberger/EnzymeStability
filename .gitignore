@@ -1,0 +1,6 @@
+notebooks\EnzymePlots*
+EnzymeValues
+PICTURE
+notebooks/EnzymePlots/*
+notebooks/*.txt
+notebooks/*.csv
